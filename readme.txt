@@ -1,8 +1,4 @@
-For any questions - Please email me at DevOps@RajeshKumar.gxyz/dsadasrdfsedasdasdsadsadasdddddd
-fdsfsdfds
-fsd
-fsd
-f
+For any questions - Please email me at DevOps@RajeshKumar.
 # ========================NEXUS==============================
 
 <distributionManagement>
